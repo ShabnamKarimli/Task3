@@ -1,0 +1,32 @@
+.blog{
+    text-align: center;
+
+}
+.blog button{
+    background-color: #3b589f;
+color: cornsilk;
+border-color: #3b589f;
+}
+.blog button img{
+    width: 20px;
+    height: 20px;
+}
+.blog img{
+    width: 90%;
+    height: 400px;
+    object-fit: cover ;
+}
+
+.blog p{
+    margin-right: 65px;
+    margin-left: 65px;
+    text-decoration:overline;
+    text-decoration-style: wavy;
+    text-decoration-color: chocolate;
+}
+.blog hr{
+    margin-left: 65px;
+    margin-right: 65px;
+    text-shadow: crimson;
+
+}
